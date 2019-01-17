@@ -1,0 +1,23 @@
+Según una teoría, el conocido como ?juego de los chinos? nació en el
+año 1787 en un pequeño pueblo de León. Felipe Valdeón Triguero, un pastor de
+la localidad, inventó el juego para pasar las largas horas de pastoreo. Cogió unas
+pequeñas piedras del suelo e invitó a los demás pastores a que hicieran lo
+mismo y ocultaran en la mano las que les pareciera bien para adivinar después,
+con las manos cerradas, cuántas sumaban entre todos.
+La forma más tradicional de jugar es que cada jugador dispone de tres monedas
+y en cada ronda puede sacar 0, 1, 2 o 3 en su mano derecha. Entonces cada
+jugador, por turno, dice una cifra ?su apuesta- intentando adivinar cuántas
+monedas suman todas las manos, de manera que no se puede repetir una cifra
+ya dicha por otro. Las reglas de evolución de la partida pueden ser variadas: ?a
+la caída? (el que gana la ronda se retira y se continúan las rondas hasta que sólo
+queda un jugador), ?a un marcador de 3 rondas ganadas? (el que gana 3 rondas
+se retira y se continúa hasta que sólo queda un jugador), etc. Y una cosa
+importante? para no confundir a los demás jugadores ¡no se puede mentir! Es
+decir, un jugador no puede apostar por un número de monedas que sea inviable
+de acuerdo con las monedas que él ha sacado. Por ejemplo, suponiendo que
+haya dos jugadores, un jugador debe apostar por un número de monedas que
+sea mayor o igual que el número de monedas que él ha sacado y menor o igual
+que el número de monedas que él ha sacado más el número máximo de
+monedas de que dispone el rival.
+
+XXX
